@@ -9,6 +9,16 @@ Repositório de conteúdo e exemplos do livro [Lógica de programação: A const
 
 ## [01 - Introdução à lógica de programação](1-introducao-a-logica/README.md)
 
+### [Ir para o capítulo 1](1-introducao-a-logica/README.md)
+
+### Objetivos
+
+- Apresentar os conceitos elementares de lógica e sua aplicação no cotidiano
+- Definir algoritmo
+- Estabelecer uma relação entre lógica e algoritmos: a lógica de programação
+- Exemplificar a aplicação dos algoritmos utilizando situações do dia a dia
+- Comparar as principais formas de representação dos algoritmos.
+
 ## [02 - Tópicos preliminares](2-topicos-preliminares/README.md)
 
 ## [03 - Estruturas de controle](3-estruturas-de-controle/README.md)
